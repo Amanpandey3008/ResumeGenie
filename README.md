@@ -1,4 +1,4 @@
-# Resume Tailor
+# ResumeGenie
 Leverage generative AI technologies to streamline the resume customization process. Users can upload their resume and a job description, and our system generates a tailored resume that closely matches the job requirements. Additionally, the app optimizes resumes for Applicant Tracking Systems (ATS) to enhance visibility and increase the likelihood of passing automated screening. Crafting personalized resumes has never been easier."
 
 ## Installation
